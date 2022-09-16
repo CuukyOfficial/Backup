@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 public class Main extends JavaPlugin {
 
 	private static final String PREFIX = "§7[§aBackup§7] ";
-	private static final String CONSOLE_PREFIX = "[BackupImpl] ";
+	private static final String CONSOLE_PREFIX = "[Backup] ";
 	private static final File FOLDER = new File("plugins/Backup/");
 
 	private AdvancedInventoryManager inventoryManager;
