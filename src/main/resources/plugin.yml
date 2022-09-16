@@ -1,0 +1,8 @@
+name: BackupImpl
+version: 1.0.1	
+author: Cuuky
+main: de.cuuky.backup.Main
+
+commands:
+  backup:
+   permission: backup.create

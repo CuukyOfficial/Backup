@@ -1,0 +1,12 @@
+/.settings/
+/build/
+/Backup.iml
+/libs/
+/gradle/
+/gradlew.bat
+/gradlew
+/bin/
+/.project
+/.classpath
+/.gradle/
+/.idea/
